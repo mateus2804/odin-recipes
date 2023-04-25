@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.links:link {
+    text-decoration: none;
+}
